@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexanderloop
-- 👀 I’m interested in bitcooin mining.
+- 👀 I’m interested in bitcoin mining.
 - 🌱 I’m currently learning everthing there is to know about mining.
-- 💞️ I’m looking to collaborate who are willing to teach and train.
+- 💞️ I’m looking to collaborate with those who are willing to teach and train.
 - 📫 How to reach me altonpalex@icloud.com
 
 <!---
